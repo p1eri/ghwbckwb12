@@ -1,0 +1,48 @@
+.coinsection{
+    border-radius: 16px;
+    border: 1px solid #252C41;
+    background: radial-gradient(100.04% 100.00% at 50.00% 0.00%, #26314E 0%, #131820 0.01%, #0F151E 100%);
+    width: 82%;
+    height: 520px;
+    margin-top: 80px;
+}
+
+.wrap{
+    width: 100%;
+}
+
+.textsectop{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    color: #6D799C;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.textsectop:first-child{
+    padding: 24px 0px 0px 24px;
+}
+
+.underbut{
+    border: none;
+    border-radius: 8px;
+    background: radial-gradient(100.04% 100.00% at 50.00% 0.00%, #26314E 0%, #1E253C 100%);
+    width: 82%;
+    color: #CEE7FF;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal; 
+    padding: 10px 24px;
+    margin-top: 16px;
+}
+
+.butdiv{
+    display: flex;
+    justify-content: space-around;
+}

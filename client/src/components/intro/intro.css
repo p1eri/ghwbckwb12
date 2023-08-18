@@ -1,0 +1,71 @@
+.wrapper{
+    flex: 1;
+    display: flex;
+    align-items: flex-start;
+    align-items: center;
+    justify-content: space-around;
+    width: 97%;
+    height: 373px;
+}
+
+.col{
+    background: #0B0F15;
+    width: 100%;
+    border-bottom: 1px solid #252C41;
+    border-top: 1px solid #252C41;
+}
+
+.uptext{
+    color: #D5EAFF;
+    font-family: Inter;
+    font-size: 72px;
+    font-style: normal; 
+    line-height: 80px; /* 111.111% */
+    letter-spacing: -1.44px; 
+    padding-top: 36px;
+}
+
+.intro1{
+    display: flex;
+    flex-direction: column;
+}
+
+.logoinput{
+    width: 314px;
+    padding: 10px 24px 10px 16px;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    background: radial-gradient(100.04% 100.00% at 50.00% 0.00%, #26314E 0%, #252B3D 100%);
+    border: none;
+    color: #6D799C;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal; 
+}
+
+.logobtn{
+    border-radius: 6px;
+    background: radial-gradient(100.04% 100.00% at 50.00% 0.00%, #66CBF9 0%, #0FB5FF 100%);
+    padding: 10px 24px;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    color: #08090B;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.bottombaner{
+    height: 32px;
+    width: 400px;
+}
+
+.divinput{
+    margin-left: 168px;
+    margin-top: -22px;
+}

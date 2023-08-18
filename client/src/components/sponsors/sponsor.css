@@ -1,0 +1,25 @@
+.main{
+    width: 100%;
+    border-bottom: 1px solid #252C41;
+    border-top: 1px solid #252C41;
+    margin-top: 88px;
+}
+
+.maintext{
+    color: #D5EAFF;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 445;
+    line-height: 64px; /* 133.333% */
+    letter-spacing: -0.96px; 
+}
+
+.undertext{
+    color: #464E62;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160.023%; /* 28.804px */
+}

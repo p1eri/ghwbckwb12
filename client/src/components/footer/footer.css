@@ -1,0 +1,39 @@
+.footer{
+    background: #08090B;
+    height: 410px;
+    border-top: 1px solid #252C41;
+}
+
+.fcont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+
+.flside{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 63px;
+    color: #464E62;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 445;
+    line-height: normal;
+    padding-right: 160px;
+}
+
+.frside{
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    padding-left: 160px;
+    padding-top: 63px;
+}
+
+.sm, .bfoot{
+    margin-top: 60px;
+}

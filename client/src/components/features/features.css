@@ -1,0 +1,44 @@
+.containerfeat{
+    width: 100%;
+    margin-top: 88px;
+    border-bottom: 1px solid #252C41;
+    padding-bottom: 117px;
+}
+
+.cards{
+    display: flex;
+    width: 80%;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    margin-top: 50px;
+}
+
+.feattop{
+    color: #D5EAFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 469;
+    line-height: 145.023%; /* 29.005px */
+    padding-top: 32px;
+}
+
+.featunder{
+    color: #464E62;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 160.023%; /* 28.804px */
+}
+
+.cards2{
+    display: flex;
+    width: 80%;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    margin-top: 50px;
+    margin-top: 90px;
+}

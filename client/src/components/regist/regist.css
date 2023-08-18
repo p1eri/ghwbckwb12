@@ -1,0 +1,22 @@
+.regmain{
+    text-align: center;
+    padding-top: 88px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 160px;
+}
+
+.regtext{
+    color: #D5EAFF;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 445;
+    line-height: 64px; /* 133.333% */
+    letter-spacing: -0.96px;
+}
+
+.divforinp{
+    margin-top: 54px;
+}
